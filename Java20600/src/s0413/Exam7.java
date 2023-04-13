@@ -8,6 +8,7 @@ public class Exam7 {
 			if(i%2==0)
 				continue;
 			System.out.print(i + " ");
+			System.out.println("Git hub Test");
 		}
 	}
 
