@@ -9,6 +9,7 @@ public class AddMain {
 		System.out.println(a.sum(3, 5));
 		System.out.println(a.sum(3, 5, 7));
 		System.out.println(a.sum("3", "5"));
+		System.out.println(a.sum("3", "5"));
 		
 	}
 
