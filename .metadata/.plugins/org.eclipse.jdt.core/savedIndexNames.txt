@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\JAVA_206\git\2023-java-6ban\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+1865797976.index
+2851902168.index
